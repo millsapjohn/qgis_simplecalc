@@ -1,24 +1,22 @@
 [general]
-name=plugin
+name=SimpleCalc
 qgisMinimumVersion=3.00
 email=jmillsapengineer@gmail.com
 author=John Millsap
-description=description
-about=long description
-version=0.1
-repository=repo
+description=A simple calculator
+about=no frills, just basic math in your QGIS main window
+version=1.0
+repository=https://github.com/millsapjohn/qgis_simplecalc
 
-category=RasterVectorDatabaseMeshWeb
 changelog=changelog
-experimental=True
+experimental=False
 deprecated=False
-tags=tag,tag1
-homepage=homepage
-tracker=tracker
-qgisMaximumVersion=3.99
+homepage=https://github.com/millsapjohn/qgis_simplecalc
+tracker=https://github.com/millsapjohn/qgis_simplecalc/issues
+qgisMaximumVersion=4.99
 icon=icon
-plugin_dependencies=plugin1,plugin2
 server=False
 hasProcessingProvider=False
+supportsQt6=True
 
 
